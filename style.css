@@ -1,0 +1,30 @@
+.blue-light{
+background-color: dodgerblue;
+height: 100vh;
+position: relative;
+}
+
+.blue-dark{
+    background-color:  #f67590;
+    height: 100vh;
+    position: relative;
+}
+
+.image{
+    z-index: 1;
+    position: absolute;
+    left:40%;
+    top:16.5%;
+}
+
+.head{
+    margin-top: 50px;
+    box-shadow:5px 5px #f67590;
+}
+
+.content{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border:3px solid #f67590;
+    padding: 20px;
+}
