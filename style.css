@@ -19,12 +19,12 @@ position: relative;
 
 .head{
     margin-top: 50px;
-    box-shadow:5px 5px #f67590;
 }
 
 .content{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     border:3px solid #f67590;
-    padding: 20px;
+    padding: 20px;   
+    box-shadow:5px 5px #f67590;
 }
